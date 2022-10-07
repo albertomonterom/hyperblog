@@ -29,6 +29,9 @@ body{
     font-weight: normal;
     font-size: 0.8rem;
 }
+#post{
+    padding: 1em;
+}
 #footer{
     background: #777;
     color: white;
