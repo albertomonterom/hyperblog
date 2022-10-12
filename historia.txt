@@ -7,3 +7,5 @@ Archivo modificado por el nocolaborador
 Astro contribuye en este proyecto opensource, nuevamente astro
 
 Master 1
+
+Master 2
