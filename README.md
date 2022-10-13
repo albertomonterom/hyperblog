@@ -8,3 +8,4 @@ Un blog para el curso de Platzi
 - Incluye ejemplos en windows, linux y mac
 - Disponible para todas las edades
 - Desde 0 a avanzado
+- Útil en proyectos
