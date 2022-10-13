@@ -5,3 +5,6 @@ Un blog para el curso de Platzi
 - Todos los comandos de Git
 - El flujo de trabajo de Github
 - Creado por Astro
+- Creado por Astro
+- Incluye ejemplos en windows, linux y mac
+- Disponible para todas las edades
