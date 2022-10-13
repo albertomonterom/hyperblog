@@ -4,8 +4,7 @@ Archivo modificado por Astro
 
 Archivo modificado por el nocolaborador
 
-Astro contribuye en este proyecto opensource, nuevamente astro
-
 Master 1
 
-Experimento 1
+Astro contribuye en este proyecto opensource, nuevamente astro
+
